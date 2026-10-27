@@ -6,7 +6,7 @@ I'm a .NET developer based in Ho Chi Minh City, Vietnam, with hands-on experienc
 
 I focus on building maintainable backend applications and strengthening my skills in API design, database development, and software architecture.
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 | Area | Technologies |
 |---|---|
@@ -16,22 +16,22 @@ I focus on building maintainable backend applications and strengthening my skill
 | Caching | Redis |
 | Tools | Git, Docker, Swagger |
 
-## Featured Project
+## 🚀 Featured Project
 
-### Monio — Personal Finance API
+### 💰 Monio — Personal Finance API
 
 A personal finance backend built with **.NET 8** and **Clean Architecture**, with separate Domain, Application, Infrastructure, and API layers.
 
-**Implemented features:**
+**✅ Implemented features:**
 
 - User registration and login
 - JWT authentication and refresh token management
 - Category management APIs
 - Redis caching for category data
 
-**Technology stack:** .NET 8, EF Core, PostgreSQL, Redis, and Docker.
+**⚙️ Technology stack:** .NET 8, EF Core, PostgreSQL, Redis, and Docker.
 
-## Current Focus
+## 🌱 Current Focus
 
 - Building the Monio mobile application with Flutter
 - Improving automated testing skills for backend applications
